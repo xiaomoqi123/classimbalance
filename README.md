@@ -14,3 +14,7 @@ Finally, we provide three practical guidelines that could help refine ML-based A
 * data.zip: there are nine warning datasets with the associated warning features.
 * main.py: it contains the implementation scripts of our empirical study.
 * result.zip: it contains the results on original the warning dataset, the class rebalancing learning results, and statistical analysis results.
+
+# Reproduction 
+* python: 3.6
+* scikit-learn: 0.24.1
