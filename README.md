@@ -11,6 +11,6 @@ The experimental results show that (1) the class imbalance has a negative impact
 (3) RandomOverSampler combined with AdaBoost/Random Forest can make the ML-based AWI model achieve optimal performance on \hl{9} warning datasets.
 Finally, we provide three practical guidelines that could help refine ML-based AWI approaches.
 
-# RUN
-* python 3.6
-* scikit-learn: 0.24.1
+* data.zip: there are nine warning datasets with the associated warning features.
+* main.py: it contains the implementation scripts of our empirical study.
+* result.zip: it contains the results on original the warning dataset, the class rebalancing learning results, and statistical analysis results.
