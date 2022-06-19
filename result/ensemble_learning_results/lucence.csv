@@ -1,0 +1,5 @@
+,imbalance_classifier,cross_val_data_time,TP,FP,FN,TN,ACC,PRE,RECALL,F1,AUC,MCC,G_measure
+0,EasyEnsembleClassifier,5237,2158,35,99,1133,0.961,0.984,0.956,0.97,0.963,0.915,0.97
+1,RUSBoostClassifier,5237,2166,60,91,1108,0.956,0.973,0.96,0.966,0.954,0.903,0.966
+2,BalancedBaggingClassifier,5237,2160,29,97,1139,0.963,0.987,0.957,0.972,0.966,0.92,0.972
+3,BalancedRandomForestClassifier,5237,2161,40,96,1128,0.96,0.982,0.957,0.969,0.962,0.913,0.97
